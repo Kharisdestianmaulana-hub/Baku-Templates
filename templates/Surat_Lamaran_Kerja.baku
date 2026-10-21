@@ -1,0 +1,770 @@
+{
+  "fileName": "Surat_Lamaran_Kerja.baku",
+  "docName": "Surat_Lamaran_Kerja",
+  "templateMeta": {
+    "id": "surat_lamaran",
+    "title": "Surat Lamaran Kerja",
+    "category": "letter",
+    "isStrictStandard": false,
+    "paperSize": "A4",
+    "orientation": "portrait",
+    "marginSummary": "2.54 cm rata",
+    "fontSummary": "Calibri, 11pt, Spasi 1.15",
+    "desc": "Format profesional baku surat lamaran pekerjaan (2 halaman) memuat tanggal kanan, perihal, data identitas, kualifikasi terjustifikasi, tanda tangan, dan lampiran ringkasan curriculum vitae (CV).",
+    "keywords": [
+      "surat",
+      "lamaran",
+      "lamaran kerja",
+      "kerja",
+      "job",
+      "job application",
+      "application",
+      "application letter",
+      "letter",
+      "cover letter",
+      "resume",
+      "pekerjaan",
+      "hrd",
+      "rekrutmen",
+      "recruitment"
+    ]
+  },
+  "paperConfig": {
+    "width": 210,
+    "height": 297,
+    "marginTop": 25.4,
+    "marginBottom": 25.4,
+    "marginLeft": 25.4,
+    "marginRight": 25.4,
+    "orientation": "portrait",
+    "format": "A4"
+  },
+  "numberingConfig": {
+    "doc": {
+      "show": false,
+      "format": "arabic",
+      "start": 1,
+      "align": "center",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "headerFooterConfig": {
+    "doc": {
+      "header": {
+        "text": "",
+        "align": "center",
+        "diffFirst": false,
+        "firstText": ""
+      },
+      "footer": {
+        "text": "",
+        "align": "center",
+        "diffFirst": false,
+        "firstText": ""
+      }
+    }
+  },
+  "content": [
+    {
+      "insert": "Jakarta, 13 Oktober 2026",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Perihal  : Lamaran Pekerjaan - Senior Software Engineer",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Lampiran : 1 (Satu) Berkas Riwayat Hidup dan Dokumen Pendukung",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Yth. Human Resources Department / Head of Talent Acquisition",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "PT Teknologi Nusantara Maju",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Gedung Graha Equity Lantai 18, Jalan Jenderal Sudirman Kav. 52-53",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Jakarta Selatan 12190",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Dengan hormat,",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Berdasarkan informasi lowongan pekerjaan yang dipublikasikan pada portal karier resmi PT Teknologi Nusantara Maju, saya bermaksud untuk mengajukan diri guna bergabung dengan perusahaan yang Bapak/Ibu pimpin sebagai Senior Software Engineer.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Berikut adalah ringkasan data diri saya:",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Nama Lengkap          : Muhammad Rizky Pratama, S.Kom.",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Tempat, Tanggal Lahir : Bandung, 15 Mei 1999",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Pendidikan Terakhir   : Sarjana Komputer - Teknik Informatika, Universitas Indonesia",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Alamat Domisili       : Jl. Kebon Sirih No. 42, Menteng, Jakarta Pusat",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Nomor Kontak / WA     : 0812-3456-7890",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Alamat Pos-el (Email) : rizky.pratama@email.com",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Saya memiliki pengalaman lebih dari 4 tahun dalam rekayasa perangkat lunak berskala produksi, dengan spesialisasi pada arsitektur sistem berbasis desktop dan web modern, optimasi komputasi luring, serta penanganan berkas dokumen digital. Saya memiliki komitmen kerja yang tinggi, integritas kepemimpinan, serta terbiasa berkolaborasi dalam tim multidisiplin yang adaptif.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Sebagai bahan pertimbangan Bapak/Ibu, bersama surat ini saya lampirkan kelengkapan berkas pendukung:",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "1. Curriculum Vitae (Daftar Riwayat Hidup) Terbaru",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "2. Salinan Ijazah Sarjana dan Transkrip Nilai Akademik Resmi",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "3. Salinan Sertifikat Kompetensi Profesi dan Keahlian Rekayasa Sistem",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "4. Portofolio Proyek Rekayasa Perangkat Lunak Terintegrasi",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Besar harapan saya untuk diberikan kesempatan menghadiri sesi wawancara langsung agar dapat memaparkan potensi dan kualifikasi saya secara lebih mendalam. Atas perhatian dan kesempatan yang Bapak/Ibu berikan, saya sampaikan terima kasih.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Hormat saya,",
+      "attributes": {
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Muhammad Rizky Pratama, S.Kom.",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": {
+        "pageBreak": {
+          "height": 100,
+          "auto": false
+        }
+      }
+    },
+    {
+      "insert": "CURRICULUM VITAE RINGKAS",
+      "attributes": {
+        "bold": true,
+        "size": "15pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "MUHAMMAD RIZKY PRATAMA, S.Kom.",
+      "attributes": {
+        "bold": true,
+        "size": "13pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Jakarta, Indonesia | +62 812-3456-7890 | rizky.pratama@email.com | linkedin.com/in/rizky-pratama",
+      "attributes": {
+        "size": "10pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "_________________________________________________________________________________",
+      "attributes": {
+        "bold": true,
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "RINGKASAN PROFIL PROFESIONAL",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Software Engineer profesional dengan rekam jejak terbukti dalam membangun aplikasi berkinerja tinggi, responsif, dan stabil. Berpengalaman memimpin tim kecil pengembang perangkat lunak serta berkolaborasi erat dengan manajer produk dalam menghadirkan solusi teknologi mutakhir.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "PENGALAMAN KERJA RELEVAN",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Senior Software Engineer | PT Inovasi Solusi Digital (2023 - Sekarang)",
+      "attributes": {
+        "bold": true,
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "- Memimpin pengembangan modul pengolahan dokumen mandiri dengan performa 3x lebih cepat.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "- Mengurangi angka kegagalan ekspor naskah menjadi di bawah 0.1% melalui refaktorisasi arsitektur.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Full Stack Developer | PT Cipta Kreasi Mandiri (2021 - 2023)",
+      "attributes": {
+        "bold": true,
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "- Mengembangkan sistem layanan dokumen elektronik yang melayani lebih dari 100.000 pengguna aktif.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "- Mengintegrasikan protokol keamanan data terenkripsi dan standardisasi format berkas.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "RIWAYAT PENDIDIKAN",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Sarjana Komputer (S.Kom.) - Teknik Informatika, Universitas Indonesia (2017 - 2021)",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Indeks Prestasi Kumulatif (IPK): 3.84 / 4.00 (Predikat Cum Laude)",
+      "attributes": {
+        "italic": true,
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "KEAHLIAN DAN KOMPETENSI",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "- Pemrograman: JavaScript/TypeScript, Rust, Python, Go, SQL",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "- Platform & Tools: Tauri, Node.js, Web Standards, Git, Docker, CI/CD",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "- Sertifikasi: AWS Certified Solutions Architect (2024), Professional Scrum Master (2023)",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Calibri"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    }
+  ]
+}

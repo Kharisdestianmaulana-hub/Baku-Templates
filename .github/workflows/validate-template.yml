@@ -1,0 +1,63 @@
+name: Validasi Format Templat Baku
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'templates/**'
+      - 'registry.json'
+  push:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Periksa Validitas JSON & Struktur Template
+        run: |
+          node -e '
+          const fs = require("fs");
+          const path = require("path");
+
+          // 1. Periksa registry.json
+          console.log("Memeriksa registry.json...");
+          if (!fs.existsSync("registry.json")) {
+            console.error("FAIL: registry.json tidak ditemukan!");
+            process.exit(1);
+          }
+          const registry = JSON.parse(fs.readFileSync("registry.json", "utf8"));
+          if (!Array.isArray(registry)) {
+            console.error("FAIL: registry.json harus berupa array JSON!");
+            process.exit(1);
+          }
+          console.log(`PASS: registry.json valid (${registry.length} templat terdaftar).`);
+
+          // 2. Periksa setiap berkas di folder templates/
+          const files = fs.readdirSync("templates").filter(f => f.endsWith(".baku"));
+          console.log(`Memeriksa ${files.length} berkas .baku...`);
+          
+          let hasError = false;
+          files.forEach(f => {
+            const p = path.join("templates", f);
+            try {
+              const data = JSON.parse(fs.readFileSync(p, "utf8"));
+              if (!data.templateMeta || !data.paperConfig) {
+                console.warn(`WARNING: ${f} tidak memiliki blok templateMeta atau paperConfig standar.`);
+              }
+            } catch (err) {
+              console.error(`FAIL: ${f} bukan berkas JSON valid!`, err.message);
+              hasError = true;
+            }
+          });
+
+          if (hasError) process.exit(1);
+          console.log("Semua berkas .baku lolos uji validasi format!");
+          '

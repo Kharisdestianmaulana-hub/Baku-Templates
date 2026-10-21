@@ -1,0 +1,822 @@
+{
+  "fileName": "Surat_Resmi.baku",
+  "docName": "Surat_Resmi",
+  "templateMeta": {
+    "id": "surat_resmi",
+    "title": "Surat Resmi / Surat Dinas",
+    "category": "letter",
+    "isStrictStandard": true,
+    "paperSize": "A4",
+    "orientation": "portrait",
+    "marginSummary": "2.54 cm rata",
+    "fontSummary": "Arial, 11pt, Spasi 1.15",
+    "desc": "Format baku surat dinas atau instansi pemerintah/swasta (2 halaman) memuat kop surat resmi, nomor berkas, perihal, badan surat terjustifikasi, blok tanda tangan pejabat, dan lampiran jadwal kegiatan.",
+    "keywords": [
+      "surat",
+      "resmi",
+      "dinas",
+      "official",
+      "official letter",
+      "letter",
+      "surat dinas",
+      "surat resmi",
+      "instansi",
+      "formal",
+      "kop surat",
+      "undangan",
+      "invitation"
+    ]
+  },
+  "paperConfig": {
+    "width": 210,
+    "height": 297,
+    "marginTop": 25.4,
+    "marginBottom": 25.4,
+    "marginLeft": 25.4,
+    "marginRight": 25.4,
+    "orientation": "portrait",
+    "format": "A4"
+  },
+  "numberingConfig": {
+    "doc": {
+      "show": false,
+      "format": "arabic",
+      "start": 1,
+      "align": "center",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "headerFooterConfig": {
+    "doc": {
+      "header": {
+        "text": "",
+        "align": "center",
+        "diffFirst": false,
+        "firstText": ""
+      },
+      "footer": {
+        "text": "",
+        "align": "center",
+        "diffFirst": false,
+        "firstText": ""
+      }
+    }
+  },
+  "content": [
+    {
+      "insert": "KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "DIREKTORAT JENDERAL PENDIDIKAN TINGGI",
+      "attributes": {
+        "bold": true,
+        "size": "13pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Jalan Jenderal Sudirman, Senayan, Jakarta Pusat 10270 | Telepon: (021) 571-1144",
+      "attributes": {
+        "size": "9pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Laman: kemdikbud.go.id | Pos-el: persuratan@kemdikbud.go.id",
+      "attributes": {
+        "size": "9pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "_________________________________________________________________________________",
+      "attributes": {
+        "bold": true,
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "13 Oktober 2026",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Nomor   : 0142/E.E1/PR.02/2026",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Sifat   : Penting / Segera",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Lampiran: 1 (Satu) Berkas",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Hal     : Undangan Rapat Koordinasi Nasional Standarisasi Format Dokumen Akademik",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Yth. Pimpinan Perguruan Tinggi Negeri dan Swasta",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "di Seluruh Indonesia",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Dengan hormat,",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Dalam rangka mewujudkan tata kelola pengarsipan naskah akademik yang tertib, modern, dan terstandarisasi secara nasional, Direktorat Jenderal Pendidikan Tinggi mengundang Bapak/Ibu atau perwakilan yang ditunjuk untuk menghadiri Rapat Koordinasi Nasional Standarisasi Format Dokumen Digital yang akan diselenggarakan pada:",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Hari, Tanggal : Senin s.d. Selasa, 19 - 20 Oktober 2026",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Waktu         : 08.30 WIB s.d. selesai",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Tempat        : Ruang Sidang Utama Graha Diktiristek, Gedung D Lt. 2, Jakarta Pusat",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Agenda        : Sosialisasi Pedoman Baku dan Integrasi Editor Dokumen Mandiri",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Mengingat pentingnya agenda tersebut, kami mengharapkan kehadiran Bapak/Ibu tepat pada waktu yang telah ditentukan. Konfirmasi kehadiran dapat disampaikan paling lambat hari Jumat, 16 Oktober 2026 melalui panitia pelaksana terlampir.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Demikian surat undangan ini kami sampaikan. Atas perhatian dan kerja sama yang baik, kami ucapkan terima kasih.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Sekretaris Direktorat Jenderal,",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Prof. Dr. Ir. Tjitjik Srie Tjahjandarie, M.Sc.",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "NIP. 19680512 199303 2 001",
+      "attributes": {
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Tembusan:",
+      "attributes": {
+        "size": "9.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "1. Direktur Jenderal Pendidikan Tinggi (sebagai laporan)",
+      "attributes": {
+        "size": "9pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "2. Kepala Biro Perencanaan dan Hubungan Masyarakat",
+      "attributes": {
+        "size": "9pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": {
+        "pageBreak": {
+          "height": 100,
+          "auto": false
+        }
+      }
+    },
+    {
+      "insert": "LAMPIRAN SURAT UNDANGAN DINAS",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Nomor : 0142/E.E1/PR.02/2026 | Tanggal: 13 Oktober 2026",
+      "attributes": {
+        "size": "10pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "_________________________________________________________________________________",
+      "attributes": {
+        "bold": true,
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "JADWAL DAN SUSUNAN ACARA",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "RAPAT KOORDINASI NASIONAL STANDARISASI FORMAT DOKUMEN DIGITAL",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "HARI PERTAMA: SENIN, 19 OKTOBER 2026",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "08.30 - 09.00 WIB : Registrasi Peserta dan Pengambilan Berkas Panduan",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "09.00 - 09.30 WIB : Pembukaan dan Lagu Kebangsaan Indonesia Raya",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "09.30 - 10.15 WIB : Sambutan Arahan Direktur Jenderal Pendidikan Tinggi",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "10.15 - 12.00 WIB : Paparan Kebijakan Standarisasi Format Naskah Akademik Nasional",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "12.00 - 13.00 WIB : Istirahat, Sholat, dan Makan Siang",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "13.00 - 15.30 WIB : Workshop Teknis Penggunaan Editor Dokumen Baku Luring",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "15.30 - 16.00 WIB : Diskusi Interaktif dan Tanya Jawab Sesi I",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "HARI KEDUA: SELASA, 20 OKTOBER 2026",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "09.00 - 11.30 WIB : Sidang Pleno Perumusan Rekomendasi Format Baku Digital",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "11.30 - 12.30 WIB : Penandatanganan Komitmen Bersama Pimpinan Institusi",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "12.30 - 13.30 WIB : Penutupan Resmi dan Penyerahan Sertifikat Kepesertaan",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Catatan Khusus Peserta:",
+      "attributes": {
+        "bold": true,
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "1. Peserta diwajibkan membawa komputer jinjing dengan peramban modern terpasang.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "2. Berkas materi dan panduan instalasi dapat diakses secara luring melalui modul USB panitia.",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Ketua Panitia Pelaksana,",
+      "attributes": {
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    },
+    {
+      "insert": "Dr. H. Hendra Wijaya, M.Si.",
+      "attributes": {
+        "bold": true,
+        "size": "10.5pt",
+        "font": "Arial"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "right"
+      }
+    }
+  ]
+}

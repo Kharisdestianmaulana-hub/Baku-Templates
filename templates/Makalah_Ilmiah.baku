@@ -1,0 +1,574 @@
+{
+  "fileName": "Makalah_Ilmiah.baku",
+  "docName": "Makalah_Ilmiah",
+  "templateMeta": {
+    "id": "makalah",
+    "title": "Makalah Ilmiah / Paper",
+    "category": "academic",
+    "isStrictStandard": false,
+    "paperSize": "A4",
+    "orientation": "portrait",
+    "marginSummary": "3 cm rata",
+    "fontSummary": "Times New Roman, 12pt, Spasi 1.15",
+    "desc": "Format makalah kuliah dan artikel ilmiah rapi (3 halaman) dengan margin 3 cm, halaman judul, abstrak dwibahasa, pendahuluan, metodologi, hasil pembahasan, kesimpulan, dan referensi.",
+    "keywords": [
+      "makalah",
+      "paper",
+      "makalah ilmiah",
+      "scientific",
+      "scientific paper",
+      "artikel",
+      "article",
+      "kuliah",
+      "college",
+      "tugas",
+      "assignment"
+    ]
+  },
+  "paperConfig": {
+    "width": 210,
+    "height": 297,
+    "marginTop": 30,
+    "marginBottom": 30,
+    "marginLeft": 30,
+    "marginRight": 30,
+    "orientation": "portrait",
+    "format": "A4"
+  },
+  "numberingConfig": {
+    "doc": {
+      "show": true,
+      "format": "arabic",
+      "start": 1,
+      "align": "center",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "headerFooterConfig": {
+    "doc": {
+      "header": {
+        "text": "Makalah Ilmiah Mahasiswa",
+        "align": "right",
+        "diffFirst": true,
+        "firstText": ""
+      },
+      "footer": {
+        "text": "",
+        "align": "center",
+        "diffFirst": false,
+        "firstText": ""
+      }
+    }
+  },
+  "content": [
+    {
+      "insert": "PENERAPAN METODOLOGI DOKUMEN DIGITAL TERSTANDARISASI PADA KARYA ILMIAH MAHASISWA",
+      "attributes": {
+        "bold": true,
+        "size": "16pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Tinjauan Komparatif Efektivitas Penyusunan Makalah Kuliah dan Format Publikasi",
+      "attributes": {
+        "italic": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Ahmad Fauzan¹, Rizky Pratama², Dewi Lestari³",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "¹Program Studi Informatika, Universitas Baku Indonesia",
+      "attributes": {
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "²Program Studi Sistem Informasi, Institut Teknologi Nusantara",
+      "attributes": {
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Email korespondensi: ahmad.fauzan@baku.ac.id",
+      "attributes": {
+        "italic": true,
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "_________________________________________________________________________________",
+      "attributes": {
+        "bold": true,
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "ABSTRAK",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "Makalah ini menganalisis efektivitas penerapan format baku dalam penulisan naskah akademik mahasiswa. Standarisasi struktur penulisan memegang peranan krusial dalam kejelasan penyampaian gagasan, kemudahan telaah rekan sejawat, dan efisiensi pengarsipan ilmiah. Studi dilakukan dengan menguji 50 naskah makalah menggunakan parameter kesesuaian margin, konsistensi hierarki judul, dan kepatuhan sitasi. Hasil evaluasi membuktikan bahwa penggunaan templat terstandarisasi meningkatkan tingkat kepatuhan format dari 64% menjadi 98%.",
+      "attributes": {
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Kata Kunci: Makalah Ilmiah, Standardisasi Dokumen, Tipografi Akademik, Evaluasi Format.",
+      "attributes": {
+        "bold": true,
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "ABSTRACT",
+      "attributes": {
+        "bold": true,
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "center"
+      }
+    },
+    {
+      "insert": "This paper investigates the effectiveness of standard formatting in university students' scientific papers. Structured writing plays a vital role in conceptual clarity, peer-review efficiency, and digital archiving. Evaluation across 50 papers demonstrates that adopting standardized templates enhances formatting compliance from 64% to 98%.",
+      "attributes": {
+        "italic": true,
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Keywords: Scientific Paper, Document Standardization, Academic Typography, Format Verification.",
+      "attributes": {
+        "bold": true,
+        "italic": true,
+        "size": "10pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "pageBreak": {
+          "height": 100,
+          "auto": false
+        }
+      }
+    },
+    {
+      "insert": "1. PENDAHULUAN",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "Penulisan naskah ilmiah menuntut disiplin tinggi terhadap format tata letak, sitasi kepustakaan, dan organisasi bab. Di lingkungan perguruan tinggi, mahasiswa kerap menghasilkan karya yang substansinya berbobot namun terkendala dalam kerapian penyajian. Permasalahan ini timbul karena ketidakseragaman piranti lunak pengolah kata serta kurangnya templat yang telah terkalibrasi secara presisi.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Tujuan utama penulisan makalah ini adalah menyajikan kerangka kerja baku untuk makalah kuliah dan artikel ilmiah mahasiswa, sehingga fokus penulis dapat tercurah sepenuhnya pada kedalaman analisis teoretis dan metodologis tanpa terdistraksi oleh pengaturan teknis yang berulang.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "2. KAJIAN TEORI DAN METODOLOGI PENELITIAN",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "Kajian literatur menunjukkan bahwa tata kelola dokumen yang teratur berkorelasi positif dengan pemahaman pembaca terhadap alur argumentasi ilmiah. Metode yang digunakan dalam kajian ini meliputi studi kepustakaan, analisis komparatif pedoman penulisan naskah jurnal nasional terakreditasi, serta pengujian templat pada berbagai skenario penyusunan naskah.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Tahapan pelaksanaan dimulai dari identifikasi elemen struktural baku (sampul, abstrak, bab pendahuluan, metode, temuan, simpulan, dan daftar pustaka), penyesuaian ukuran font sesuai hierarki naskah, hingga validasi margin kertas A4 berstandar 3 cm di setiap sisi.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": {
+        "pageBreak": {
+          "height": 100,
+          "auto": false
+        }
+      }
+    },
+    {
+      "insert": "3. HASIL DAN PEMBAHASAN",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "Hasil pengujian memperlihatkan bahwa penyusunan dokumen menggunakan kerangka baku memangkas waktu revisi format hingga 75%. Mahasiswa tidak perlu lagi menyesuaikan spasi dan posisi batas halaman secara manual berulang kali. Kerapian tipografi juga mempermudah dosen pengampu dalam memberikan telaah substansial terhadap isi makalah.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "4. KESIMPULAN DAN SARAN",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "Penerapan templat naskah makalah ilmiah baku memberikan manfaat nyata dalam meningkatkan kualitas penyajian akademik dan produktivitas mahasiswa. Disarankan agar institusi pendidikan menyediakan templat baku yang kompatibel dengan berbagai platform pengolah kata.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "DAFTAR PUSTAKA",
+      "attributes": {
+        "bold": true,
+        "size": "12pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "left"
+      }
+    },
+    {
+      "insert": "Haryanto, A. (2024). Pedoman Penulisan Naskah dan Artikel Ilmiah Mahasiswa. Yogyakarta: Pustaka Pelajar.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Nugroho, E., & Wibowo, S. (2023). Analisis Pemanfaatan Pengolah Dokumen Modern dalam Dunia Akademik. Jurnal Pendidikan dan Pembelajaran Komputer, 15(1), 45-56.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "Suryadi, T. (2025). Tipografi Dokumen Ilmiah dan Dampaknya pada Efisiensi Penilaian Naskah. Jurnal Informatika Akademika, 9(3), 112-123.",
+      "attributes": {
+        "size": "11pt",
+        "font": "Times New Roman"
+      }
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify",
+        "lineheight": "1.15"
+      }
+    }
+  ]
+}
